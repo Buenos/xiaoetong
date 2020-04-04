@@ -1,11 +1,6 @@
 {
-  "name": "buenos/xiaoetong-api",
+  "name": "buenos/xiaoetong",
   "require": {
     "php": "^7.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "xiaoetong\\": "xiaoetong-api/"
-    }
   }
 }
